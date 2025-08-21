@@ -2,6 +2,7 @@
   "name": "avukatlik-sinavi-plan",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gizemkky.github.io/avukat-oluyorum",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
